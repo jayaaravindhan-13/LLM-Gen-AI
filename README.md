@@ -72,7 +72,7 @@ You can listen respective audio file of this test image on respective `img-audio
 
 Clone the repository:
 
-`git clone https://github.com/GURPREETKAURJETHRA/Image-to-Speech-GenAI-Tool-Using-LLM.git`
+`git clone https://github.com/jayaaravindhan-13/llm-project.git`
 
 Install the required Python packages:
 
@@ -86,7 +86,6 @@ Set up your OpenAI API key & Hugging Face Token by creating a .env file in the r
 Run the Streamlit app:
 
 `streamlit run app.py`
-
 
 ## ©️ License
 
